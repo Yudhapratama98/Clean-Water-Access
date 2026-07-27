@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Flask
+instance/
+.webassets-cache
+
+# Others
+*.pkl
+*.sav
+# If you want to keep the models in the repo, comment out the lines above.
+# Usually, large models > 100MB should not be pushed to GitHub without Git LFS.
+
+# Large Geospatial Datasets (Exceeds GitHub 100MB limit)
+gadm36_IDN_shp/
+*.shp
+*.shx
+*.dbf
