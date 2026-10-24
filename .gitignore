@@ -12,8 +12,17 @@ ENV/
 env.bak/
 venv.bak/
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# Jupyter Notebook checkpoints & exports
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+*.html
+
+# Temporary Office / Excel lock files
+~$*.xlsx
+~$*.xls
+~$*.docx
+~$*.pptx
+~$*
 
 # OS generated files
 .DS_Store
@@ -24,15 +33,25 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
+# Backup and draft notebooks
+*backup*.ipynb
+*Backup*.ipynb
+*_backup.*
+Untitled*.ipynb
+
+# Machine Learning models (>10MB)
+*.pkl
+*.sav
+*.joblib
+*.h5
+*.onnx
+
+# Large presentation files (Exceeds GitHub 100MB limit)
+*.pdf
+
 # Flask
 instance/
 .webassets-cache
-
-# Others
-*.pkl
-*.sav
-# If you want to keep the models in the repo, comment out the lines above.
-# Usually, large models > 100MB should not be pushed to GitHub without Git LFS.
 
 # Large Geospatial Datasets (Exceeds GitHub 100MB limit)
 gadm36_IDN_shp/
