@@ -1,0 +1,6 @@
+Stage,Sample Description,Observations (Rows),Unique Units,Excluded Obs.,Primary Justification for Attrition
+0. Raw INDO-DAPOER Records,All downloaded subnational records (all administrative tiers and historical years),23135,514,-,Initial source extract from World Bank API
+1. District Window (1996–2020),"Kabupaten & Kota tier only, restricted to 1996–2020 study window",12850,514,"-10,285",Dropped provincial summaries ('Prop.') and pre-1996 records
+2. Observed Target & Outcome,Districts with non-missing Susenas water access and morbidity rate,10568,514,"-2,282",Enforced strictly observed target; no imputation on dependent variable (Reviewer §9.3)
+3. Full Analytical Panel (Table 1),Unbalanced contemporaneous panel across all observed districts with territorial area,10180,477,-388,Excluded 37 units with unrecorded area (31 post-2008 DOBs + 6 Jakarta municipalities)
+4. Balanced Clustering Cohort,Balanced 25-year panel (1996–2020) for DTW trajectory & hierarchical clustering,6075,243,"-4,105",Restricted to stable units with 25 continuous annual observations (Reviewer §3 & §8)

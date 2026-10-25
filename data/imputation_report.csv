@@ -1,0 +1,7 @@
+Variable,Indicator Name,Total Observations,Valid Observed Count,Missing Count,Missing Share (%),Leakage-Safe Handling Strategy
+water,water,10180,10180,0,0.0,Observed only; rows dropped if missing (No imputation)
+morbid,morbid,10180,10180,0,0.0,Observed only; rows dropped if missing (No imputation)
+pop,pop,10180,10148,32,0.31,Pipeline KNNImputer fit strictly on training folds in Day 2
+area,area,10180,10180,0,0.0,Static within-ID constant fill (No cross-district borrowing)
+pad,pad,10180,9960,220,2.16,Pipeline KNNImputer fit strictly on training folds in Day 2
+expend,expend,10180,8269,1911,18.77,Pipeline KNNImputer fit strictly on training folds in Day 2

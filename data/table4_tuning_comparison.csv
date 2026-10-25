@@ -1,0 +1,3 @@
+Model,Tuning_Status,Parameters,MAE,RMSE,R2
+LightGBM (Linear Tree) [Default],Before Tuning (Default),"max_depth=4, lr=0.05, n_est=100",5.013737133996282,6.6782364128709935,0.8835084956981928
+LightGBM (Linear Tree) [Tuned],After Tuning (Temporal CV),"{'model__learning_rate': 0.03, 'model__max_depth': 3, 'model__n_estimators': 50}",4.982111914492333,6.65416852381523,0.8843466368637536

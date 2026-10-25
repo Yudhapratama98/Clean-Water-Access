@@ -1,0 +1,8 @@
+Feature,Feature_Description,Mean_Abs_SHAP
+water_lag1,Autoregressive Lag-1 (water_{t-1}),2.107466315214417
+logpad_pc_real,Real Local Revenue per capita (logPAD),1.3347105757037674
+logarea,Territorial Land Area (logArea),0.4980896026060557
+logpop,Population Scale (logPop),0.26778675815753755
+logexpend_pc_real,Real Total Expenditure per capita (logExpend),0.07864537671596813
+morbid,Morbidity Rate (%),0.037209424297180035
+tingkat,Urban Administrative Status (Kota vs Kab),0.03338046236070231

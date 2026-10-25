@@ -1,0 +1,478 @@
+id,daerah,first_year,last_year,total_years,entry_cohort
+ID.AC.AB,Kab Aceh Barat,1996,2020,21,Baseline 1996 District
+ID.AC.AD,Kab Aceh Barat Daya,2004,2020,16,Post-1996 Pemekaran / New Entry
+ID.AC.AG,Kab Aceh Tenggara,1996,2020,21,Baseline 1996 District
+ID.AC.AI,Kab Aceh Timur,1996,2020,21,Baseline 1996 District
+ID.AC.AJ,Kab Aceh Jaya,2004,2020,16,Post-1996 Pemekaran / New Entry
+ID.AC.AK,Kab Aceh Singkil,2003,2020,17,Post-1996 Pemekaran / New Entry
+ID.AC.AM,Kab Aceh Tamiang,2004,2020,16,Post-1996 Pemekaran / New Entry
+ID.AC.AR,Kab Aceh Besar,1996,2020,21,Baseline 1996 District
+ID.AC.AS,Kab Aceh Selatan,1996,2020,21,Baseline 1996 District
+ID.AC.AT,Kab Aceh Tengah,1996,2020,21,Baseline 1996 District
+ID.AC.AU,Kab Aceh Utara,1996,2020,21,Baseline 1996 District
+ID.AC.BA,Kota Banda Aceh,1996,2020,21,Baseline 1996 District
+ID.AC.BI,Kab Bireuen,2003,2020,17,Post-1996 Pemekaran / New Entry
+ID.AC.BM,Kab Bener Meriah,2006,2020,15,Post-1996 Pemekaran / New Entry
+ID.AC.GL,Kab Gayo Lues,2004,2020,16,Post-1996 Pemekaran / New Entry
+ID.AC.LA,Kota Langsa,2004,2020,16,Post-1996 Pemekaran / New Entry
+ID.AC.LH,Kota Lhokseumawe,2004,2020,16,Post-1996 Pemekaran / New Entry
+ID.AC.NR,Kab Nagan Raya,2004,2020,16,Post-1996 Pemekaran / New Entry
+ID.AC.PI,Kab Pidie,1996,2020,21,Baseline 1996 District
+ID.AC.PJ,Kab Pidie Jaya,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.AC.SA,Kota Sabang,1996,2020,21,Baseline 1996 District
+ID.AC.SB,Kota Subulussalam,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.AC.SI,Kab Simeulue,2003,2020,17,Post-1996 Pemekaran / New Entry
+ID.BA.BD,Kab Badung,1996,2020,25,Baseline 1996 District
+ID.BA.BL,Kab Buleleng,1996,2020,25,Baseline 1996 District
+ID.BA.BN,Kab Bangli,1996,2020,25,Baseline 1996 District
+ID.BA.DE,Kota Denpasar,1996,2020,25,Baseline 1996 District
+ID.BA.GI,Kab Gianyar,1996,2020,25,Baseline 1996 District
+ID.BA.JE,Kab Jembrana,1996,2020,25,Baseline 1996 District
+ID.BA.KA,Kab Karangasem,1996,2020,25,Baseline 1996 District
+ID.BA.KL,Kab Klungkung,1996,2020,25,Baseline 1996 District
+ID.BA.TA,Kab Tabanan,1996,2020,25,Baseline 1996 District
+ID.BB.BA,Kab Bangka,1996,2020,25,Baseline 1996 District
+ID.BB.BB,Kab Bangka Barat,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.BB.BE,Kab Belitung,1996,2020,25,Baseline 1996 District
+ID.BB.BG,Kab Bangka Tengah,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.BB.BS,Kab Bangka Selatan,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.BB.BT,Kab Belitung Timur,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.BB.PP,Kota Pangkal Pinang,1996,2020,25,Baseline 1996 District
+ID.BE.BE,Kota Bengkulu,1996,2020,25,Baseline 1996 District
+ID.BE.BS,Kab Bengkulu Selatan,1996,2020,25,Baseline 1996 District
+ID.BE.BT,Kab Bengkulu Tengah,2010,2020,11,Post-1996 Pemekaran / New Entry
+ID.BE.BU,Kab Bengkulu Utara,1996,2020,25,Baseline 1996 District
+ID.BE.KA,Kab Kaur,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.BE.KE,Kab Kepahiang,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.BE.LE,Kab Lebong,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.BE.MU,Kab Mukomuko,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.BE.RL,Kab Rejang Lebong,1996,2020,25,Baseline 1996 District
+ID.BE.SE,Kab Seluma,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.BT.CL,Kota Cilegon,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.BT.LE,Kab Lebak,1996,2020,25,Baseline 1996 District
+ID.BT.PA,Kab Pandeglang,1996,2020,25,Baseline 1996 District
+ID.BT.SE,Kab Serang,1996,2020,25,Baseline 1996 District
+ID.BT.SR,Kota Serang,2009,2020,12,Post-1996 Pemekaran / New Entry
+ID.BT.TM,Kab Tangerang,1996,2020,25,Baseline 1996 District
+ID.BT.TN,Kota Tangerang,1996,2020,25,Baseline 1996 District
+ID.GO.BB,Kab Bone Bolango,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.GO.BO,Kab Boalemo,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.GO.GM,Kab Gorontalo,1996,2020,25,Baseline 1996 District
+ID.GO.GR,Kota Gorontalo,1996,2020,25,Baseline 1996 District
+ID.GO.GU,Kab Gorontalo Utara,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.GO.PO,Kab Pohuwato,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.IB.FA,Kab Fakfak,1996,2020,24,Baseline 1996 District
+ID.IB.KA,Kab Kaimana,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.IB.MA,Kab Manokwari,1996,2020,23,Baseline 1996 District
+ID.IB.RA,Kab Raja Ampat,2006,2020,15,Post-1996 Pemekaran / New Entry
+ID.IB.SG,Kab Sorong,1996,2020,23,Baseline 1996 District
+ID.IB.SR,Kota Sorong,2003,2020,18,Post-1996 Pemekaran / New Entry
+ID.IB.SS,Kab Sorong Selatan,2006,2020,15,Post-1996 Pemekaran / New Entry
+ID.IB.TB,Kab Teluk Bintuni,2006,2020,15,Post-1996 Pemekaran / New Entry
+ID.IB.TW,Kab Teluk Wondama,2006,2020,15,Post-1996 Pemekaran / New Entry
+ID.JA.BA,Kab Batang Hari,1996,2020,25,Baseline 1996 District
+ID.JA.BT,Kab Bungo,1996,2020,24,Baseline 1996 District
+ID.JA.JA,Kota Jambi,1996,2020,25,Baseline 1996 District
+ID.JA.KE,Kab Kerinci,1996,2020,25,Baseline 1996 District
+ID.JA.MJ,Kab Muaro Jambi,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.JA.SA,Kab Sarolangun,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.JA.SB,Kab Merangin,1996,2020,25,Baseline 1996 District
+ID.JA.SP,Kota Sungai Penuh,2010,2020,11,Post-1996 Pemekaran / New Entry
+ID.JA.TE,Kab Tebo,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.JA.TJ,Kab Tanjung Jabung Barat,1996,2020,24,Baseline 1996 District
+ID.JA.TT,Kab Tanjung Jabung Timur,2002,2020,19,Post-1996 Pemekaran / New Entry
+ID.JI.BA,Kota Batu,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.JI.BD,Kab Bondowoso,1996,2020,25,Baseline 1996 District
+ID.JI.BJ,Kab Bojonegoro,1996,2020,25,Baseline 1996 District
+ID.JI.BK,Kab Bangkalan,1996,2020,25,Baseline 1996 District
+ID.JI.BL,Kota Blitar,1996,2020,25,Baseline 1996 District
+ID.JI.BR,Kab Blitar,1996,2020,25,Baseline 1996 District
+ID.JI.BW,Kab Banyuwangi,1996,2020,25,Baseline 1996 District
+ID.JI.GR,Kab Gresik,1996,2020,25,Baseline 1996 District
+ID.JI.JE,Kab Jember,1996,2020,25,Baseline 1996 District
+ID.JI.JO,Kab Jombang,1996,2020,25,Baseline 1996 District
+ID.JI.KD,Kota Kediri,1996,2020,25,Baseline 1996 District
+ID.JI.KR,Kab Kediri,1996,2020,25,Baseline 1996 District
+ID.JI.LA,Kab Lamongan,1996,2020,25,Baseline 1996 District
+ID.JI.LU,Kab Lumajang,1996,2020,25,Baseline 1996 District
+ID.JI.MD,Kota Madiun,1996,2020,25,Baseline 1996 District
+ID.JI.MG,Kab Malang,1996,2020,25,Baseline 1996 District
+ID.JI.MJ,Kota Mojokerto,1996,2020,25,Baseline 1996 District
+ID.JI.MK,Kab Mojokerto,1996,2020,25,Baseline 1996 District
+ID.JI.ML,Kota Malang,1996,2020,25,Baseline 1996 District
+ID.JI.MN,Kab Madiun,1996,2020,25,Baseline 1996 District
+ID.JI.MT,Kab Magetan,1996,2020,25,Baseline 1996 District
+ID.JI.NJ,Kab Nganjuk,1996,2020,25,Baseline 1996 District
+ID.JI.NW,Kab Ngawi,1996,2020,25,Baseline 1996 District
+ID.JI.PC,Kab Pacitan,1996,2020,25,Baseline 1996 District
+ID.JI.PG,Kab Ponorogo,1996,2020,25,Baseline 1996 District
+ID.JI.PK,Kab Pamekasan,1996,2020,25,Baseline 1996 District
+ID.JI.PL,Kab Probolinggo,1996,2020,25,Baseline 1996 District
+ID.JI.PO,Kota Probolinggo,1996,2020,25,Baseline 1996 District
+ID.JI.PR,Kab Pasuruan,1996,2020,25,Baseline 1996 District
+ID.JI.PS,Kota Pasuruan,1996,2020,25,Baseline 1996 District
+ID.JI.SA,Kab Sampang,1996,2020,25,Baseline 1996 District
+ID.JI.SB,Kab Situbondo,1996,2020,25,Baseline 1996 District
+ID.JI.SD,Kab Sidoarjo,1996,2020,25,Baseline 1996 District
+ID.JI.SM,Kab Sumenep,1996,2020,25,Baseline 1996 District
+ID.JI.SR,Kota Surabaya,1996,2020,25,Baseline 1996 District
+ID.JI.TB,Kab Tuban,1996,2020,25,Baseline 1996 District
+ID.JI.TG,Kab Tulungagung,1996,2020,25,Baseline 1996 District
+ID.JI.TR,Kab Trenggalek,1996,2020,25,Baseline 1996 District
+ID.JR.BA,Kab Banjar,1996,2020,25,Baseline 1996 District
+ID.JR.BB,Kab Bandung Barat,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.JR.BD,Kab Bandung,1996,2020,25,Baseline 1996 District
+ID.JR.BG,Kota Bogor,1996,2020,25,Baseline 1996 District
+ID.JR.BJ,Kota Banjar,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.JR.BK,Kota Bekasi,1999,2020,22,Post-1996 Pemekaran / New Entry
+ID.JR.BN,Kota Bandung,1996,2020,25,Baseline 1996 District
+ID.JR.BR,Kab Bogor,1996,2020,25,Baseline 1996 District
+ID.JR.BS,Kab Bekasi,1996,2020,25,Baseline 1996 District
+ID.JR.CE,Kota Cirebon,1996,2020,25,Baseline 1996 District
+ID.JR.CI,Kota Cimahi,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.JR.CJ,Kab Cianjur,1996,2020,25,Baseline 1996 District
+ID.JR.CR,Kab Cirebon,1996,2020,25,Baseline 1996 District
+ID.JR.CS,Kab Ciamis,1996,2020,25,Baseline 1996 District
+ID.JR.DE,Kota Depok,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.JR.GA,Kab Garut,1996,2020,25,Baseline 1996 District
+ID.JR.IN,Kab Indramayu,1996,2020,25,Baseline 1996 District
+ID.JR.KA,Kab Karawang,1996,2020,25,Baseline 1996 District
+ID.JR.KU,Kab Kuningan,1996,2020,25,Baseline 1996 District
+ID.JR.MA,Kab Majalengka,1996,2020,25,Baseline 1996 District
+ID.JR.PU,Kab Purwakarta,1996,2020,25,Baseline 1996 District
+ID.JR.SB,Kab Subang,1996,2020,25,Baseline 1996 District
+ID.JR.SD,Kab Sumedang,1996,2020,25,Baseline 1996 District
+ID.JR.SK,Kota Sukabumi,1996,2020,25,Baseline 1996 District
+ID.JR.SM,Kab Sukabumi,1996,2020,25,Baseline 1996 District
+ID.JR.TM,Kab Tasikmalaya,1996,2020,25,Baseline 1996 District
+ID.JR.TS,Kota Tasikmalaya,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.JT.BL,Kab Blora,1996,2020,25,Baseline 1996 District
+ID.JT.BN,Kab Banjarnegara,1996,2020,25,Baseline 1996 District
+ID.JT.BO,Kab Boyolali,1996,2020,25,Baseline 1996 District
+ID.JT.BR,Kab Brebes,1996,2020,25,Baseline 1996 District
+ID.JT.BT,Kab Batang,1996,2020,25,Baseline 1996 District
+ID.JT.BY,Kab Banyumas,1996,2020,25,Baseline 1996 District
+ID.JT.CI,Kab Cilacap,1996,2020,25,Baseline 1996 District
+ID.JT.DE,Kab Demak,1996,2020,25,Baseline 1996 District
+ID.JT.GR,Kab Grobogan,1996,2020,25,Baseline 1996 District
+ID.JT.JE,Kab Jepara,1996,2020,25,Baseline 1996 District
+ID.JT.KA,Kab Karanganyar,1996,2020,25,Baseline 1996 District
+ID.JT.KB,Kab Kebumen,1996,2020,25,Baseline 1996 District
+ID.JT.KL,Kab Klaten,1996,2020,25,Baseline 1996 District
+ID.JT.KN,Kab Kendal,1996,2020,25,Baseline 1996 District
+ID.JT.KU,Kab Kudus,1996,2020,25,Baseline 1996 District
+ID.JT.MG,Kota Magelang,1996,2020,25,Baseline 1996 District
+ID.JT.MM,Kab Magelang,1996,2020,25,Baseline 1996 District
+ID.JT.PA,Kab Pati,1996,2020,25,Baseline 1996 District
+ID.JT.PB,Kab Purbalingga,1996,2020,25,Baseline 1996 District
+ID.JT.PK,Kota Pekalongan,1996,2020,25,Baseline 1996 District
+ID.JT.PL,Kab Pemalang,1996,2020,25,Baseline 1996 District
+ID.JT.PM,Kab Pekalongan,1996,2020,25,Baseline 1996 District
+ID.JT.PW,Kab Purworejo,1996,2020,25,Baseline 1996 District
+ID.JT.RE,Kab Rembang,1996,2020,25,Baseline 1996 District
+ID.JT.SA,Kota Salatiga,1996,2020,25,Baseline 1996 District
+ID.JT.SE,Kota Semarang,1996,2020,25,Baseline 1996 District
+ID.JT.SG,Kab Sragen,1996,2020,25,Baseline 1996 District
+ID.JT.SH,Kab Sukoharjo,1996,2020,25,Baseline 1996 District
+ID.JT.SK,Kota Surakarta,1996,2020,25,Baseline 1996 District
+ID.JT.SM,Kab Semarang,1996,2020,25,Baseline 1996 District
+ID.JT.TE,Kota Tegal,1996,2020,25,Baseline 1996 District
+ID.JT.TG,Kab Temanggung,1996,2020,25,Baseline 1996 District
+ID.JT.TM,Kab Tegal,1996,2020,25,Baseline 1996 District
+ID.JT.WG,Kab Wonogiri,1996,2020,25,Baseline 1996 District
+ID.JT.WS,Kab Wonosobo,1996,2020,25,Baseline 1996 District
+ID.KB.BE,Kab Bengkayang,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.KB.KE,Kab Ketapang,1996,2020,25,Baseline 1996 District
+ID.KB.KH,Kab Kapuas Hulu,1996,2020,24,Baseline 1996 District
+ID.KB.KR,Kab Kubu Raya,2009,2020,12,Post-1996 Pemekaran / New Entry
+ID.KB.KU,Kab Kayong Utara,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.KB.LA,Kab Landak,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.KB.ME,Kab Melawi,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.KB.PN,Kota Pontianak,1996,2020,25,Baseline 1996 District
+ID.KB.PR,Kab Pontianak,1996,2020,25,Baseline 1996 District
+ID.KB.SE,Kab Sekadau,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.KB.SI,Kab Sintang,1996,2020,24,Baseline 1996 District
+ID.KB.SK,Kota Singkawang,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.KB.SM,Kab Sambas,1996,2020,25,Baseline 1996 District
+ID.KB.SN,Kab Sanggau,1996,2020,25,Baseline 1996 District
+ID.KI.BA,Kota Balikpapan,1996,2020,25,Baseline 1996 District
+ID.KI.BE,Kab Berau,1996,2020,24,Baseline 1996 District
+ID.KI.BO,Kota Bontang,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.KI.BU,Kab Bulungan,1996,2020,24,Baseline 1996 District
+ID.KI.KB,Kab Kutai Barat,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.KI.KT,Kab Kutai Timur,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.KI.KU,Kab Kutai Kartanegara,1996,2020,25,Baseline 1996 District
+ID.KI.MA,Kab Malinau,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.KI.NU,Kab Nunukan,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.KI.PA,Kab Pasir,1996,2020,25,Baseline 1996 District
+ID.KI.PP,Kab Penajam Paser Utara,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.KI.SA,Kota Samarinda,1996,2020,25,Baseline 1996 District
+ID.KI.TA,Kota Tarakan,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.KR.BA,Kota Batam,1996,2020,25,Baseline 1996 District
+ID.KR.BN,Kab Bintan,1996,2020,24,Baseline 1996 District
+ID.KR.KA,Kab Karimun,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.KR.KP,Kab Kepulauan Anambas,2010,2020,11,Post-1996 Pemekaran / New Entry
+ID.KR.LI,Kab Lingga,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.KR.NA,Kab Natuna,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.KR.TP,Kota Tanjung Pinang,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.KS.BA,Kab Balangan,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.KS.BB,Kota Banjar Baru,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.KS.BK,Kab Barito Kuala,1996,2020,25,Baseline 1996 District
+ID.KS.BM,Kota Banjarmasin,1996,2020,25,Baseline 1996 District
+ID.KS.HS,Kab Hulu Sungai Selatan,1996,2020,25,Baseline 1996 District
+ID.KS.HT,Kab Hulu Sungai Tengah,1996,2020,25,Baseline 1996 District
+ID.KS.HU,Kab Hulu Sungai Utara,1996,2020,25,Baseline 1996 District
+ID.KS.KB,Kab Kota Baru,1996,2020,25,Baseline 1996 District
+ID.KS.TB,Kab Tabalong,1996,2020,25,Baseline 1996 District
+ID.KS.TL,Kab Tanah Laut,1996,2020,25,Baseline 1996 District
+ID.KS.TN,Kab Tanah Bumbu,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.KS.TP,Kab Tapin,1996,2020,25,Baseline 1996 District
+ID.KT.BS,Kab Barito Selatan,1996,2020,25,Baseline 1996 District
+ID.KT.BT,Kab Barito Timur,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.KT.BU,Kab Barito Utara,1996,2020,25,Baseline 1996 District
+ID.KT.GM,Kab Gunung Mas,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.KT.KA,Kab Kapuas,1996,2020,25,Baseline 1996 District
+ID.KT.KB,Kab Kotawaringin Barat,1996,2020,25,Baseline 1996 District
+ID.KT.KG,Kab Katingan,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.KT.KT,Kab Kotawaringin Timur,1996,2020,25,Baseline 1996 District
+ID.KT.LA,Kab Lamandau,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.KT.MR,Kab Murung Raya,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.KT.PP,Kab Pulang Pisau,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.KT.PR,Kota Palangkaraya,1996,2020,25,Baseline 1996 District
+ID.KT.SE,Kab Seruyan,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.KT.SU,Kab Sukamara,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.KU.TT,Kab Tana Tidung,2009,2020,12,Post-1996 Pemekaran / New Entry
+ID.LA.BL,Kota Bandar Lampung,1996,2020,25,Baseline 1996 District
+ID.LA.LB,Kab Lampung Barat,1996,2020,25,Baseline 1996 District
+ID.LA.LI,Kab Lampung Timur,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.LA.LS,Kab Lampung Selatan,1996,2020,25,Baseline 1996 District
+ID.LA.LT,Kab Lampung Tengah,1996,2020,25,Baseline 1996 District
+ID.LA.LU,Kab Lampung Utara,1996,2020,24,Baseline 1996 District
+ID.LA.ME,Kota Metro,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.LA.PS,Kab Pesawaran,2009,2020,12,Post-1996 Pemekaran / New Entry
+ID.LA.TA,Kab Tanggamus,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.LA.TL,Kab Tulang Bawang,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.LA.WK,Kab Way Kanan,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.MA.AM,Kota Ambon,1996,2020,23,Baseline 1996 District
+ID.MA.BS,Kab Buru Selatan,2010,2020,11,Post-1996 Pemekaran / New Entry
+ID.MA.BU,Kab Buru,2001,2020,19,Post-1996 Pemekaran / New Entry
+ID.MA.KA,Kab Kepulauan Aru,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.MA.MB,Kab Maluku Barat Daya,2010,2020,11,Post-1996 Pemekaran / New Entry
+ID.MA.MG,Kab Maluku Tenggara,1996,2020,23,Baseline 1996 District
+ID.MA.MT,Kab Maluku Tengah,1996,2020,23,Baseline 1996 District
+ID.MA.MU,Kab Maluku Tenggara Barat,2001,2020,19,Post-1996 Pemekaran / New Entry
+ID.MA.SB,Kab Seram Bagian Barat,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.MA.ST,Kab Seram Bagian Timur,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.MA.TA,Kota Tual,2009,2020,12,Post-1996 Pemekaran / New Entry
+ID.MU.HB,Kab Halmahera Barat,1996,2020,23,Baseline 1996 District
+ID.MU.HI,Kab Halmahera Timur,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.MU.HS,Kab Halmahera Selatan,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.MU.HT,Kab Halmahera Tengah,1996,2020,23,Baseline 1996 District
+ID.MU.HU,Kab Halmahera Utara,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.MU.KS,Kab Kepulauan Sula,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.MU.TE,Kota Ternate,2001,2020,19,Post-1996 Pemekaran / New Entry
+ID.MU.TK,Kota Kepulauan Tidore,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.NB.BI,Kab Bima,1996,2020,25,Baseline 1996 District
+ID.NB.BM,Kota Bima,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.NB.DO,Kab Dompu,1996,2020,25,Baseline 1996 District
+ID.NB.LB,Kab Lombok Barat,1996,2020,25,Baseline 1996 District
+ID.NB.LI,Kab Lombok Timur,1996,2020,25,Baseline 1996 District
+ID.NB.LT,Kab Lombok Tengah,1996,2020,25,Baseline 1996 District
+ID.NB.LU,Kab Lombok Utara,2010,2020,11,Post-1996 Pemekaran / New Entry
+ID.NB.MA,Kota Mataram,1996,2020,25,Baseline 1996 District
+ID.NB.SB,Kab Sumbawa Barat,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.NB.SU,Kab Sumbawa,1996,2020,25,Baseline 1996 District
+ID.NT.AL,Kab Alor,1996,2020,25,Baseline 1996 District
+ID.NT.BE,Kab Belu,1996,2020,25,Baseline 1996 District
+ID.NT.EN,Kab Ende,1996,2020,25,Baseline 1996 District
+ID.NT.FT,Kab Flores Timur,1996,2020,25,Baseline 1996 District
+ID.NT.KP,Kota Kupang,1998,2020,23,Post-1996 Pemekaran / New Entry
+ID.NT.KR,Kab Kupang,1996,2020,25,Baseline 1996 District
+ID.NT.LE,Kab Lembata,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.NT.MA,Kab Manggarai,1996,2020,24,Baseline 1996 District
+ID.NT.MB,Kab Manggarai Barat,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.NT.MT,Kab Manggarai Timur,2009,2020,12,Post-1996 Pemekaran / New Entry
+ID.NT.NA,Kab Nagekeo,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.NT.NG,Kab Ngada,1996,2020,25,Baseline 1996 District
+ID.NT.RN,Kab Rote Ndao,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.NT.SB,Kab Sumba Barat,1996,2020,25,Baseline 1996 District
+ID.NT.SI,Kab Sikka,1996,2020,25,Baseline 1996 District
+ID.NT.SM,Kab Sumba Barat Daya,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.NT.ST,Kab Sumba Timur,1996,2020,25,Baseline 1996 District
+ID.NT.SU,Kab Sumba Tengah,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.NT.TS,Kab Timor Tengah Selatan,1996,2020,25,Baseline 1996 District
+ID.NT.TU,Kab Timor Tengah Utara,1996,2020,25,Baseline 1996 District
+ID.PA.AS,Kab Asmat,2005,2020,14,Post-1996 Pemekaran / New Entry
+ID.PA.BD,Kab Boven Digoel,2006,2020,15,Post-1996 Pemekaran / New Entry
+ID.PA.BN,Kab Biak Numfor,1996,2020,24,Baseline 1996 District
+ID.PA.DG,Kab Dogiyai,2009,2020,11,Post-1996 Pemekaran / New Entry
+ID.PA.JA,Kab Jayawijaya,1996,2020,24,Baseline 1996 District
+ID.PA.JR,Kab Jayapura,1996,2020,24,Baseline 1996 District
+ID.PA.JY,Kota Jayapura,1996,2020,24,Baseline 1996 District
+ID.PA.KE,Kab Keerom,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.PA.LJ,Kab Lanny Jaya,2009,2020,10,Post-1996 Pemekaran / New Entry
+ID.PA.ME,Kab Merauke,1996,2020,23,Baseline 1996 District
+ID.PA.MI,Kab Mimika,2001,2020,19,Post-1996 Pemekaran / New Entry
+ID.PA.MP,Kab Mappi,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.PA.MR,Kab Mamberamo Raya,2009,2020,12,Post-1996 Pemekaran / New Entry
+ID.PA.MT,Kab Mamberamo Tengah,2009,2020,8,Post-1996 Pemekaran / New Entry
+ID.PA.NA,Kab Nabire,1996,2020,24,Baseline 1996 District
+ID.PA.NU,Kab Nduga,2009,2020,11,Post-1996 Pemekaran / New Entry
+ID.PA.PA,Kab Paniai,2001,2020,19,Post-1996 Pemekaran / New Entry
+ID.PA.PB,Kab Pegunungan Bintang,2005,2020,15,Post-1996 Pemekaran / New Entry
+ID.PA.PJ,Kab Puncak Jaya,2001,2020,18,Post-1996 Pemekaran / New Entry
+ID.PA.PN,Kab Puncak,2010,2020,10,Post-1996 Pemekaran / New Entry
+ID.PA.SA,Kab Sarmi,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.PA.SU,Kab Supiori,2006,2020,15,Post-1996 Pemekaran / New Entry
+ID.PA.TO,Kab Tolikara,2007,2020,11,Post-1996 Pemekaran / New Entry
+ID.PA.WA,Kab Waropen,2006,2020,15,Post-1996 Pemekaran / New Entry
+ID.PA.YA,Kab Yahukimo,2005,2020,15,Post-1996 Pemekaran / New Entry
+ID.PA.YL,Kab Yalimo,2009,2020,11,Post-1996 Pemekaran / New Entry
+ID.PA.YW,Kab Kepulauan Yapen,1996,2020,23,Baseline 1996 District
+ID.RI.BE,Kab Bengkalis,1996,2020,24,Baseline 1996 District
+ID.RI.DU,Kota Dumai,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.RI.II,Kab Indragiri Hilir,1996,2020,25,Baseline 1996 District
+ID.RI.IU,Kab Indragiri Hulu,1996,2020,25,Baseline 1996 District
+ID.RI.KA,Kab Kampar,1996,2020,24,Baseline 1996 District
+ID.RI.KS,Kab Kuantan Singingi,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.RI.PB,Kota Pekanbaru,1996,2020,25,Baseline 1996 District
+ID.RI.PE,Kab Pelalawan,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.RI.RH,Kab Rokan Hulu,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.RI.RI,Kab Rokan Hilir,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.RI.SI,Kab Siak,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.SB.AG,Kab Agam,1996,2020,25,Baseline 1996 District
+ID.SB.BU,Kota Bukittinggi,1996,2020,25,Baseline 1996 District
+ID.SB.DH,Kab Dharmasraya,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SB.KM,Kab Kepulauan Mentawai,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.SB.LP,Kab Limapuluh Kota,1996,2020,25,Baseline 1996 District
+ID.SB.PA,Kota Pariaman,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.SB.PB,Kab Pasaman Barat,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SB.PD,Kota Padang,1996,2020,25,Baseline 1996 District
+ID.SB.PJ,Kota Padang Panjang,1996,2020,25,Baseline 1996 District
+ID.SB.PM,Kab Pasaman,1996,2020,24,Baseline 1996 District
+ID.SB.PP,Kab Padang Pariaman,1996,2020,25,Baseline 1996 District
+ID.SB.PS,Kab Pesisir Selatan,1996,2020,25,Baseline 1996 District
+ID.SB.PY,Kota Payakumbuh,1996,2020,25,Baseline 1996 District
+ID.SB.SJ,Kab Sijunjung,1996,2020,25,Baseline 1996 District
+ID.SB.SK,Kab Solok Selatan,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SB.SL,Kota Sawahlunto,1996,2020,25,Baseline 1996 District
+ID.SB.SM,Kab Solok,1996,2020,25,Baseline 1996 District
+ID.SB.SO,Kota Solok,1996,2020,25,Baseline 1996 District
+ID.SB.TD,Kab Tanah Datar,1996,2020,25,Baseline 1996 District
+ID.SE.BO,Kab Bone,1996,2020,25,Baseline 1996 District
+ID.SE.BR,Kab Barru,1996,2020,25,Baseline 1996 District
+ID.SE.BT,Kab Bantaeng,1996,2020,25,Baseline 1996 District
+ID.SE.BU,Kab Bulukumba,1996,2020,25,Baseline 1996 District
+ID.SE.EN,Kab Enrekang,1996,2020,25,Baseline 1996 District
+ID.SE.GO,Kab Gowa,1996,2020,25,Baseline 1996 District
+ID.SE.JE,Kab Jeneponto,1996,2020,25,Baseline 1996 District
+ID.SE.LT,Kab Luwu Timur,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SE.LU,Kab Luwu Utara,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.SE.LW,Kab Luwu,1996,2020,25,Baseline 1996 District
+ID.SE.MR,Kab Maros,1996,2020,25,Baseline 1996 District
+ID.SE.PA,Kota Palopo,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.SE.PI,Kab Pinrang,1996,2020,25,Baseline 1996 District
+ID.SE.PK,Kab Pangkajene Kepulauan,1996,2020,25,Baseline 1996 District
+ID.SE.PP,Kota Parepare,1996,2020,25,Baseline 1996 District
+ID.SE.SE,Kab Kepulauan Selayar,1996,2020,25,Baseline 1996 District
+ID.SE.SI,Kab Sinjai,1996,2020,25,Baseline 1996 District
+ID.SE.SO,Kab Soppeng,1996,2020,25,Baseline 1996 District
+ID.SE.SR,Kab Sidenreng Rappang,1996,2020,25,Baseline 1996 District
+ID.SE.TA,Kab Takalar,1996,2020,25,Baseline 1996 District
+ID.SE.TT,Kab Tana Toraja,1996,2020,25,Baseline 1996 District
+ID.SE.TU,Kab Toraja Utara,2010,2020,11,Post-1996 Pemekaran / New Entry
+ID.SE.UP,Kota Makassar,1996,2020,25,Baseline 1996 District
+ID.SE.WA,Kab Wajo,1996,2020,25,Baseline 1996 District
+ID.SG.BA,Kota Bau-Bau,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.SG.BN,Kab Buton Utara,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.SG.BO,Kab Bombana,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SG.BU,Kab Buton,1996,2020,25,Baseline 1996 District
+ID.SG.KA,Kab Konawe Utara,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.SG.KC,Kota Kendari,1997,2020,24,Post-1996 Pemekaran / New Entry
+ID.SG.KN,Kab Konawe,1996,2020,25,Baseline 1996 District
+ID.SG.KO,Kab Kolaka,1996,2020,25,Baseline 1996 District
+ID.SG.KS,Kab Konawe Selatan,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SG.KU,Kab Kolaka Utara,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SG.MU,Kab Muna,1996,2020,25,Baseline 1996 District
+ID.SG.WA,Kab Wakatobi,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SL.BA,Kab Banyuasin,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.SL.EL,Kab Empat Lawang,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.SL.LA,Kab Lahat,1996,2020,25,Baseline 1996 District
+ID.SL.LL,Kota Lubuklinggau,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.SL.MB,Kab Musi Banyuasin,1996,2020,25,Baseline 1996 District
+ID.SL.ME,Kab Muara Enim,1996,2020,25,Baseline 1996 District
+ID.SL.MR,Kab Musi Rawas,1996,2020,25,Baseline 1996 District
+ID.SL.OH,Kab Ogan Komering Ilir,1996,2020,25,Baseline 1996 District
+ID.SL.OI,Kab Ogan Ilir,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SL.OS,Kab Ogan Komering Ulu Selatan,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SL.OT,Kab Ogan Komering Ulu Timur,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SL.OU,Kab Ogan Komering Ulu,1996,2020,25,Baseline 1996 District
+ID.SL.PA,Kota Palembang,1996,2020,25,Baseline 1996 District
+ID.SL.PG,Kota Pagar Alam,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.SL.PR,Kota Prabumulih,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.SR.MA,Kab Mamasa,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.SR.MJ,Kab Majene,1996,2020,25,Baseline 1996 District
+ID.SR.MM,Kab Mamuju,1996,2020,25,Baseline 1996 District
+ID.SR.MU,Kab Mamuju Utara,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SR.PM,Kab Polewali Mandar,1996,2020,25,Baseline 1996 District
+ID.ST.BA,Kab Banggai,1996,2020,25,Baseline 1996 District
+ID.ST.BK,Kab Banggai Kepulauan,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.ST.BT,Kab Buol,2001,2020,20,Post-1996 Pemekaran / New Entry
+ID.ST.DO,Kab Donggala,1996,2020,24,Baseline 1996 District
+ID.ST.MO,Kab Morowali,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.ST.PA,Kota Palu,1996,2020,25,Baseline 1996 District
+ID.ST.PM,Kab Parigi Moutong,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.ST.PO,Kab Poso,1996,2020,25,Baseline 1996 District
+ID.ST.SG,Kab Sigi,2010,2020,11,Post-1996 Pemekaran / New Entry
+ID.ST.TT,Kab Toli-Toli,1996,2020,24,Baseline 1996 District
+ID.ST.TU,Kab Tojo Una-Una,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SU.AS,Kab Asahan,1996,2020,25,Baseline 1996 District
+ID.SU.BB,Kab Batu Bara,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.SU.BI,Kota Binjai,1996,2020,25,Baseline 1996 District
+ID.SU.BU,Kab Labuhan Batu Utara,2010,2020,11,Post-1996 Pemekaran / New Entry
+ID.SU.DA,Kab Dairi,1996,2020,25,Baseline 1996 District
+ID.SU.DS,Kab Deli Serdang,1996,2020,24,Baseline 1996 District
+ID.SU.HH,Kab Humbang Hasundutan,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SU.KA,Kab Karo,1996,2020,25,Baseline 1996 District
+ID.SU.LA,Kab Langkat,1996,2020,24,Baseline 1996 District
+ID.SU.LB,Kab Labuhan Batu,1996,2020,25,Baseline 1996 District
+ID.SU.LU,Kab Labuhan Batu Selatan,2010,2020,11,Post-1996 Pemekaran / New Entry
+ID.SU.ME,Kota Medan,1996,2020,25,Baseline 1996 District
+ID.SU.MN,Kab Mandailing Natal,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.SU.NI,Kab Nias,1996,2020,25,Baseline 1996 District
+ID.SU.NS,Kab Nias Selatan,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SU.PB,Kab Pakpak Bharat,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SU.PD,Kota Padang Sidempuan,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.SU.PL,Kab Padang Lawas,2009,2020,12,Post-1996 Pemekaran / New Entry
+ID.SU.PS,Kota Pematang Siantar,1996,2020,25,Baseline 1996 District
+ID.SU.PU,Kab Padang Lawas Utara,2009,2020,12,Post-1996 Pemekaran / New Entry
+ID.SU.SA,Kab Samosir,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SU.SB,Kota Sibolga,1996,2020,25,Baseline 1996 District
+ID.SU.SD,Kab Serdang Bedagai,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SU.SM,Kab Simalungun,1996,2020,25,Baseline 1996 District
+ID.SU.TB,Kota Tanjung Balai,1996,2020,25,Baseline 1996 District
+ID.SU.TG,Kota Tebing Tinggi,1996,2020,25,Baseline 1996 District
+ID.SU.TR,Kab Toba Samosir,2000,2020,21,Post-1996 Pemekaran / New Entry
+ID.SU.TS,Kab Tapanuli Selatan,1996,2020,25,Baseline 1996 District
+ID.SU.TT,Kab Tapanuli Tengah,1996,2020,25,Baseline 1996 District
+ID.SU.TU,Kab Tapanuli Utara,1996,2020,25,Baseline 1996 District
+ID.SW.BI,Kota Bitung,1996,2020,25,Baseline 1996 District
+ID.SW.BM,Kab Bolaang Mongondow,1996,2020,25,Baseline 1996 District
+ID.SW.BS,Kab Bolaang Mongondow Selatan,2010,2020,11,Post-1996 Pemekaran / New Entry
+ID.SW.BT,Kab Bolaang Mongondow Timur,2010,2020,11,Post-1996 Pemekaran / New Entry
+ID.SW.BU,Kab Bolaang Mongondow Utara,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.SW.KO,Kota Kotamobagu,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.SW.KS,Kab Kepulauan Sangihe,1996,2020,24,Baseline 1996 District
+ID.SW.KT,Kab Kepulauan Talaud,2004,2020,17,Post-1996 Pemekaran / New Entry
+ID.SW.MA,Kota Manado,1996,2020,25,Baseline 1996 District
+ID.SW.MI,Kab Minahasa,1996,2020,25,Baseline 1996 District
+ID.SW.MS,Kab Minahasa Selatan,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SW.MT,Kab Minahasa Tenggara,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.SW.MU,Kab Minahasa Utara,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.SW.ST,Kab Kep. Siau Tagulandang Biaro,2007,2020,14,Post-1996 Pemekaran / New Entry
+ID.SW.TO,Kota Tomohon,2005,2020,16,Post-1996 Pemekaran / New Entry
+ID.YO.BA,Kab Bantul,1996,2020,24,Baseline 1996 District
+ID.YO.GK,Kab Gunung Kidul,1996,2020,25,Baseline 1996 District
+ID.YO.KP,Kab Kulon Progo,1996,2020,25,Baseline 1996 District
+ID.YO.SL,Kab Sleman,1996,2020,25,Baseline 1996 District
+ID.YO.YO,Kota Yogyakarta,1996,2020,25,Baseline 1996 District
