@@ -1,0 +1,244 @@
+id,hc_cluster_raw,daerah,tingkat
+ID.BA.BD,0,Badung,Kab
+ID.BA.BL,2,Buleleng,Kab
+ID.BA.BN,0,Bangli,Kab
+ID.BA.DE,0,Denpasar,Kota
+ID.BA.GI,2,Gianyar,Kab
+ID.BA.JE,0,Jembrana,Kab
+ID.BA.KA,0,Karangasem,Kab
+ID.BA.KL,2,Klungkung,Kab
+ID.BA.TA,2,Tabanan,Kab
+ID.BB.BA,0,Bangka,Kab
+ID.BB.BE,0,Belitung,Kab
+ID.BB.PP,0,Pangkal Pinang,Kota
+ID.BE.BE,0,Bengkulu,Kota
+ID.BE.BS,0,Bengkulu Selatan,Kab
+ID.BE.BU,0,Bengkulu Utara,Kab
+ID.BE.RL,0,Rejang Lebong,Kab
+ID.BT.LE,0,Lebak,Kab
+ID.BT.PA,0,Pandeglang,Kab
+ID.BT.SE,0,Serang,Kab
+ID.BT.TM,0,Tangerang,Kab
+ID.BT.TN,0,Tangerang,Kota
+ID.GO.GM,0,Gorontalo,Kab
+ID.GO.GR,0,Gorontalo,Kota
+ID.JA.BA,0,Batang Hari,Kab
+ID.JA.JA,2,Jambi,Kota
+ID.JA.KE,0,Kerinci,Kab
+ID.JA.SB,0,Merangin,Kab
+ID.JI.BD,0,Bondowoso,Kab
+ID.JI.BJ,0,Bojonegoro,Kab
+ID.JI.BK,0,Bangkalan,Kab
+ID.JI.BL,0,Blitar,Kota
+ID.JI.BR,0,Blitar,Kab
+ID.JI.BW,0,Banyuwangi,Kab
+ID.JI.GR,0,Gresik,Kab
+ID.JI.JE,0,Jember,Kab
+ID.JI.JO,0,Jombang,Kab
+ID.JI.KD,0,Kediri,Kota
+ID.JI.KR,0,Kediri,Kab
+ID.JI.LA,0,Lamongan,Kab
+ID.JI.LU,0,Lumajang,Kab
+ID.JI.MD,0,Madiun,Kota
+ID.JI.MG,0,Malang,Kab
+ID.JI.MJ,0,Mojokerto,Kota
+ID.JI.MK,0,Mojokerto,Kab
+ID.JI.ML,0,Malang,Kota
+ID.JI.MN,0,Madiun,Kab
+ID.JI.MT,2,Magetan,Kab
+ID.JI.NJ,0,Nganjuk,Kab
+ID.JI.NW,0,Ngawi,Kab
+ID.JI.PC,0,Pacitan,Kab
+ID.JI.PG,0,Ponorogo,Kab
+ID.JI.PK,0,Pamekasan,Kab
+ID.JI.PL,0,Probolinggo,Kab
+ID.JI.PO,0,Probolinggo,Kota
+ID.JI.PR,0,Pasuruan,Kab
+ID.JI.PS,2,Pasuruan,Kota
+ID.JI.SA,0,Sampang,Kab
+ID.JI.SB,0,Situbondo,Kab
+ID.JI.SD,2,Sidoarjo,Kab
+ID.JI.SM,0,Sumenep,Kab
+ID.JI.SR,2,Surabaya,Kota
+ID.JI.TB,0,Tuban,Kab
+ID.JI.TG,0,Tulungagung,Kab
+ID.JI.TR,0,Trenggalek,Kab
+ID.JR.BA,0,Banjar,Kab
+ID.JR.BD,0,Bandung,Kab
+ID.JR.BG,0,Bogor,Kota
+ID.JR.BN,2,Bandung,Kota
+ID.JR.BR,0,Bogor,Kab
+ID.JR.BS,0,Bekasi,Kab
+ID.JR.CE,2,Cirebon,Kota
+ID.JR.CJ,0,Cianjur,Kab
+ID.JR.CR,0,Cirebon,Kab
+ID.JR.CS,0,Ciamis,Kab
+ID.JR.GA,0,Garut,Kab
+ID.JR.IN,0,Indramayu,Kab
+ID.JR.KA,0,Karawang,Kab
+ID.JR.KU,0,Kuningan,Kab
+ID.JR.MA,0,Majalengka,Kab
+ID.JR.PU,0,Purwakarta,Kab
+ID.JR.SB,0,Subang,Kab
+ID.JR.SD,0,Sumedang,Kab
+ID.JR.SK,0,Sukabumi,Kota
+ID.JR.SM,0,Sukabumi,Kab
+ID.JR.TM,0,Tasikmalaya,Kab
+ID.JT.BL,2,Blora,Kab
+ID.JT.BN,0,Banjarnegara,Kab
+ID.JT.BO,0,Boyolali,Kab
+ID.JT.BR,0,Brebes,Kab
+ID.JT.BT,0,Batang,Kab
+ID.JT.BY,0,Banyumas,Kab
+ID.JT.CI,0,Cilacap,Kab
+ID.JT.DE,0,Demak,Kab
+ID.JT.GR,0,Grobogan,Kab
+ID.JT.JE,0,Jepara,Kab
+ID.JT.KA,0,Karanganyar,Kab
+ID.JT.KB,0,Kebumen,Kab
+ID.JT.KL,0,Klaten,Kab
+ID.JT.KN,0,Kendal,Kab
+ID.JT.KU,0,Kudus,Kab
+ID.JT.MG,2,Magelang,Kota
+ID.JT.MM,0,Magelang,Kab
+ID.JT.PA,0,Pati,Kab
+ID.JT.PB,0,Purbalingga,Kab
+ID.JT.PK,0,Pekalongan,Kota
+ID.JT.PL,0,Pemalang,Kab
+ID.JT.PM,0,Pekalongan,Kab
+ID.JT.PW,0,Purworejo,Kab
+ID.JT.RE,2,Rembang,Kab
+ID.JT.SA,2,Salatiga,Kota
+ID.JT.SE,2,Semarang,Kota
+ID.JT.SG,0,Sragen,Kab
+ID.JT.SH,0,Sukoharjo,Kab
+ID.JT.SK,0,Surakarta,Kota
+ID.JT.SM,0,Semarang,Kab
+ID.JT.TE,2,Tegal,Kota
+ID.JT.TG,0,Temanggung,Kab
+ID.JT.TM,0,Tegal,Kab
+ID.JT.WG,0,Wonogiri,Kab
+ID.JT.WS,0,Wonosobo,Kab
+ID.KB.KE,0,Ketapang,Kab
+ID.KB.PN,0,Pontianak,Kota
+ID.KB.PR,1,Pontianak,Kab
+ID.KB.SM,1,Sambas,Kab
+ID.KB.SN,0,Sanggau,Kab
+ID.KI.BA,2,Balikpapan,Kota
+ID.KI.KU,0,Kutai Kartanegara,Kab
+ID.KI.PA,0,Pasir,Kab
+ID.KI.SA,2,Samarinda,Kota
+ID.KR.BA,0,Batam,Kota
+ID.KS.BK,0,Barito Kuala,Kab
+ID.KS.BM,2,Banjarmasin,Kota
+ID.KS.HS,0,Hulu Sungai Selatan,Kab
+ID.KS.HT,0,Hulu Sungai Tengah,Kab
+ID.KS.HU,0,Hulu Sungai Utara,Kab
+ID.KS.KB,0,Kota Baru,Kab
+ID.KS.TB,0,Tabalong,Kab
+ID.KS.TL,0,Tanah Laut,Kab
+ID.KS.TP,0,Tapin,Kab
+ID.KT.BS,0,Barito Selatan,Kab
+ID.KT.BU,0,Barito Utara,Kab
+ID.KT.KA,0,Kapuas,Kab
+ID.KT.KB,0,Kotawaringin Barat,Kab
+ID.KT.KT,0,Kotawaringin Timur,Kab
+ID.KT.PR,0,Palangkaraya,Kota
+ID.LA.BL,0,Bandar Lampung,Kota
+ID.LA.LB,0,Lampung Barat,Kab
+ID.LA.LS,0,Lampung Selatan,Kab
+ID.LA.LT,0,Lampung Tengah,Kab
+ID.NB.BI,0,Bima,Kab
+ID.NB.DO,0,Dompu,Kab
+ID.NB.LB,0,Lombok Barat,Kab
+ID.NB.LI,0,Lombok Timur,Kab
+ID.NB.LT,0,Lombok Tengah,Kab
+ID.NB.MA,0,Mataram,Kota
+ID.NB.SU,0,Sumbawa,Kab
+ID.NT.AL,0,Alor,Kab
+ID.NT.BE,0,Belu,Kab
+ID.NT.EN,0,Ende,Kab
+ID.NT.FT,0,Flores Timur,Kab
+ID.NT.KR,0,Kupang,Kab
+ID.NT.NG,0,Ngada,Kab
+ID.NT.SB,0,Sumba Barat,Kab
+ID.NT.SI,0,Sikka,Kab
+ID.NT.ST,0,Sumba Timur,Kab
+ID.NT.TS,0,Timor Tengah Selatan,Kab
+ID.NT.TU,0,Timor Tengah Utara,Kab
+ID.RI.II,1,Indragiri Hilir,Kab
+ID.RI.IU,0,Indragiri Hulu,Kab
+ID.RI.PB,0,Pekanbaru,Kota
+ID.SB.AG,0,Agam,Kab
+ID.SB.BU,2,Bukittinggi,Kota
+ID.SB.LP,0,Limapuluh Kota,Kab
+ID.SB.PD,0,Padang,Kota
+ID.SB.PJ,2,Padang Panjang,Kota
+ID.SB.PP,0,Padang Pariaman,Kab
+ID.SB.PS,0,Pesisir Selatan,Kab
+ID.SB.PY,0,Payakumbuh,Kota
+ID.SB.SJ,0,Sijunjung,Kab
+ID.SB.SL,0,Sawahlunto,Kota
+ID.SB.SM,0,Solok,Kab
+ID.SB.SO,2,Solok,Kota
+ID.SB.TD,0,Tanah Datar,Kab
+ID.SE.BO,0,Bone,Kab
+ID.SE.BR,0,Barru,Kab
+ID.SE.BT,0,Bantaeng,Kab
+ID.SE.BU,0,Bulukumba,Kab
+ID.SE.EN,0,Enrekang,Kab
+ID.SE.GO,0,Gowa,Kab
+ID.SE.JE,0,Jeneponto,Kab
+ID.SE.LW,0,Luwu,Kab
+ID.SE.MR,0,Maros,Kab
+ID.SE.PI,0,Pinrang,Kab
+ID.SE.PK,0,Pangkajene Kepulauan,Kab
+ID.SE.PP,0,Parepare,Kota
+ID.SE.SE,0,Kepulauan Selayar,Kab
+ID.SE.SI,0,Sinjai,Kab
+ID.SE.SO,0,Soppeng,Kab
+ID.SE.SR,0,Sidenreng Rappang,Kab
+ID.SE.TA,0,Takalar,Kab
+ID.SE.TT,0,Tana Toraja,Kab
+ID.SE.UP,2,Makassar,Kota
+ID.SE.WA,0,Wajo,Kab
+ID.SG.BU,0,Buton,Kab
+ID.SG.KN,0,Konawe,Kab
+ID.SG.KO,0,Kolaka,Kab
+ID.SG.MU,0,Muna,Kab
+ID.SL.LA,0,Lahat,Kab
+ID.SL.MB,0,Musi Banyuasin,Kab
+ID.SL.ME,0,Muara Enim,Kab
+ID.SL.MR,0,Musi Rawas,Kab
+ID.SL.OH,0,Ogan Komering Ilir,Kab
+ID.SL.OU,0,Ogan Komering Ulu,Kab
+ID.SL.PA,2,Palembang,Kota
+ID.SR.MJ,0,Majene,Kab
+ID.SR.MM,0,Mamuju,Kab
+ID.SR.PM,0,Polewali Mandar,Kab
+ID.ST.BA,0,Banggai,Kab
+ID.ST.PA,0,Palu,Kota
+ID.ST.PO,0,Poso,Kab
+ID.SU.AS,0,Asahan,Kab
+ID.SU.BI,0,Binjai,Kota
+ID.SU.DA,0,Dairi,Kab
+ID.SU.KA,0,Karo,Kab
+ID.SU.LB,0,Labuhan Batu,Kab
+ID.SU.ME,2,Medan,Kota
+ID.SU.NI,1,Nias,Kab
+ID.SU.PS,2,Pematang Siantar,Kota
+ID.SU.SB,2,Sibolga,Kota
+ID.SU.SM,0,Simalungun,Kab
+ID.SU.TB,2,Tanjung Balai,Kota
+ID.SU.TG,0,Tebing Tinggi,Kota
+ID.SU.TS,0,Tapanuli Selatan,Kab
+ID.SU.TT,0,Tapanuli Tengah,Kab
+ID.SU.TU,0,Tapanuli Utara,Kab
+ID.SW.BI,2,Bitung,Kota
+ID.SW.BM,0,Bolaang Mongondow,Kab
+ID.SW.MA,2,Manado,Kota
+ID.SW.MI,0,Minahasa,Kab
+ID.YO.GK,0,Gunung Kidul,Kab
+ID.YO.KP,0,Kulon Progo,Kab
+ID.YO.SL,0,Sleman,Kab
+ID.YO.YO,0,Yogyakarta,Kota

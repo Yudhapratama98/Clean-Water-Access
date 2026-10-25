@@ -1,0 +1,89 @@
+Year,id,District_Name,Water_Access_Pct,Real_PAD_pc_IDR_k,Morbidity_Pct,Is_Pemekaran,Is_Stable_25yr
+1996,ID.BA.BD,"Badung, Kab.",42.52,1216479.4,28.46,False,True
+1996,ID.BA.DE,"Denpasar, Kota",46.89,300742.0,30.97,False,True
+1996,ID.BA.GI,"Gianyar, Kab.",69.96,124787.2,41.3,False,True
+1996,ID.GO.GR,"Gorontalo, Kota",44.63,83487.2,38.22,False,True
+1996,ID.JA.JA,"Jambi, Kota",57.06,84246.8,13.48,False,True
+1996,ID.JI.BL,"Blitar, Kota",31.19,100845.8,39.71,False,True
+1996,ID.JI.KD,"Kediri, Kota",36.74,76142.0,40.83,False,True
+1996,ID.JI.MJ,"Mojokerto, Kota",31.73,119567.1,36.77,False,True
+1996,ID.JI.MK,"Mojokerto, Kab.",60.62,35368.1,39.77,False,True
+1996,ID.JI.MT,"Magetan, Kab.",67.95,24685.3,18.9,False,True
+1996,ID.JI.PS,"Pasuruan, Kota",70.9,80727.0,39.66,False,True
+1996,ID.JI.SR,"Surabaya, Kota",94.36,201758.2,26.2,False,True
+1996,ID.JR.BG,"Bogor, Kota",62.83,362924.7,17.57,False,True
+1996,ID.JR.BN,"Bandung, Kota",64.23,119549.0,21.6,False,True
+1996,ID.JR.SK,"Sukabumi, Kota",51.32,189762.9,22.84,False,True
+1996,ID.JT.SE,"Semarang, Kota",71.65,143594.9,38.45,False,True
+1996,ID.KI.BE,"Berau, Kab.",42.26,239002.2,35.25,False,False
+1996,ID.MA.MG,"Maluku Tenggara, Kab.",51.32,22423.2,7.78,False,False
+1996,ID.MA.MT,"Maluku Tengah, Kab.",42.5,11049.5,7.61,False,False
+1996,ID.NB.LB,"Lombok Barat, Kab.",26.91,51924.1,41.37,False,True
+1996,ID.NT.NG,"Ngada, Kab.",72.22,19785.3,35.56,False,True
+1996,ID.PA.JA,"Jayawijaya, Kab.",8.33,4415.9,33.55,False,False
+1996,ID.PA.NA,"Nabire, Kab.",6.5,6794.2,30.07,False,False
+1996,ID.SB.BU,"Bukittinggi, Kota",78.31,231070.8,35.03,False,True
+1996,ID.SB.PJ,"Padang Panjang, Kota",80.7,125981.9,43.25,False,True
+1996,ID.SU.ME,"Medan, Kota",62.96,121909.3,20.52,False,True
+1996,ID.SU.PS,"Pematang Siantar, Kota",89.5,82311.2,10.98,False,True
+1996,ID.SW.BI,"Bitung, Kota",64.42,83593.4,36.92,False,True
+1996,ID.YO.YO,"Yogyakarta, Kota",51.41,195238.5,37.82,False,True
+2009,ID.AC.SA,"Sabang, Kota",92.07,218668.5,20.55,False,False
+2009,ID.BA.BD,"Badung, Kab.",90.22,2104417.0,33.87,False,True
+2009,ID.BA.BL,"Buleleng, Kab.",81.39,105485.8,61.98,False,True
+2009,ID.IB.FA,"Fakfak, Kab.",49.87,488196.9,13.8,False,False
+2009,ID.IB.KA,"Kaimana, Kab.",37.12,271749.4,17.63,True,False
+2009,ID.IB.RA,"Raja Ampat, Kab.",16.69,465407.5,16.66,True,False
+2009,ID.JA.SB,"Merangin, Kab.",32.62,1329754.1,21.22,False,True
+2009,ID.JA.TJ,"Tanjung Jabung Barat, Kab.",19.25,2324549.8,29.68,False,False
+2009,ID.KB.KR,"Kubu Raya, Kab.",3.94,21906.0,30.21,True,False
+2009,ID.KB.KU,"Kayong Utara, Kab.",11.85,14404.8,35.77,True,False
+2009,ID.KI.MA,"Malinau, Kab.",35.78,942304.7,36.01,True,False
+2009,ID.KR.BN,"Bintan, Kab.",51.59,1111543.3,29.98,False,False
+2009,ID.KR.KA,"Karimun, Kab.",32.97,1345243.7,23.59,True,False
+2009,ID.KS.BM,"Banjarmasin, Kota",98.71,111378.9,44.9,False,True
+2009,ID.KT.MR,"Murung Raya, Kab.",10.93,216939.5,9.25,True,False
+2009,ID.KU.TT,"Tana Tidung, Kab.",17.73,801394.2,33.99,True,False
+2009,ID.MU.HI,"Halmahera Timur, Kab.",25.88,371576.2,18.52,True,False
+2009,ID.NT.MT,"Manggarai Timur, Kab.",36.19,7834.1,53.65,True,False
+2009,ID.NT.SM,"Sumba Barat Daya, Kab.",10.14,37509.7,47.25,True,False
+2009,ID.PA.AS,"Asmat, Kab.",1.07,380285.9,40.54,True,False
+2009,ID.PA.BD,"Boven Digoel, Kab.",15.66,1263268.8,42.1,True,False
+2009,ID.PA.DG,"Dogiyai, Kab.",2.61,18348.5,18.02,True,False
+2009,ID.PA.LJ,"Lanny Jaya, Kab.",2.62,16684.7,15.19,True,False
+2009,ID.PA.MP,"Mappi, Kab.",19.8,714121.8,44.59,True,False
+2009,ID.PA.MT,"Mamberamo Tengah, Kab.",18.21,73661.0,60.34,True,False
+2009,ID.PA.NU,"Nduga, Kab.",54.72,51763.8,65.94,True,False
+2009,ID.PA.TO,"Tolikara, Kab.",6.76,226152.3,11.28,True,False
+2009,ID.PA.YA,"Yahukimo, Kab.",4.55,39161.5,24.32,True,False
+2009,ID.RI.SI,"Siak, Kab.",45.5,1305269.9,41.8,True,False
+2009,ID.SB.KM,"Kepulauan Mentawai, Kab.",4.37,444436.6,28.02,True,False
+2009,ID.SB.SL,"Sawahlunto, Kota",66.36,509499.9,45.96,False,True
+2009,ID.SU.ME,"Medan, Kota",89.27,182420.3,17.05,False,True
+2009,ID.SU.PU,"Padang Lawas Utara, Kab.",21.72,21215.5,26.69,True,False
+2009,ID.SW.BU,"Bolaang Mongondow Utara, Kab.",17.47,65164.8,60.84,True,False
+2020,ID.BA.BD,"Badung, Kab.",95.14,1998587.5,18.54,False,True
+2020,ID.BE.BS,"Bengkulu Selatan, Kab.",37.39,347960.3,34.51,False,True
+2020,ID.IB.TW,"Teluk Wondama, Kab.",26.37,697921.1,20.59,True,False
+2020,ID.JI.BL,"Blitar, Kota",61.56,788596.9,43.43,False,True
+2020,ID.JI.JO,"Jombang, Kab.",79.15,238282.7,57.25,False,True
+2020,ID.JT.TE,"Tegal, Kota",99.84,685916.0,47.36,False,True
+2020,ID.KS.HS,"Hulu Sungai Selatan, Kab.",63.73,543382.5,46.93,False,True
+2020,ID.NB.LT,"Lombok Tengah, Kab.",75.18,139353.1,54.92,False,True
+2020,ID.NT.SI,"Sikka, Kab.",75.57,239728.0,53.59,False,True
+2020,ID.PA.AS,"Asmat, Kab.",6.55,207952.8,16.37,True,False
+2020,ID.PA.DG,"Dogiyai, Kab.",1.3,49700.5,14.63,True,False
+2020,ID.PA.LJ,"Lanny Jaya, Kab.",6.37,51269.5,5.29,True,False
+2020,ID.PA.NU,"Nduga, Kab.",0.29,42009.0,19.57,True,False
+2020,ID.PA.PA,"Paniai, Kab.",6.55,86750.6,5.42,True,False
+2020,ID.PA.PJ,"Puncak Jaya, Kab.",34.89,72483.8,29.91,True,False
+2020,ID.PA.PN,"Puncak, Kab.",1.87,102997.8,9.73,True,False
+2020,ID.PA.SU,"Supiori, Kab.",13.12,304766.7,11.03,True,False
+2020,ID.PA.TO,"Tolikara, Kab.",7.74,77613.4,22.23,True,False
+2020,ID.PA.YA,"Yahukimo, Kab.",11.22,69548.1,16.71,True,False
+2020,ID.PA.YL,"Yalimo, Kab.",28.45,90847.7,8.95,True,False
+2020,ID.SE.BT,"Bantaeng, Kab.",90.03,376775.2,51.05,False,True
+2020,ID.SL.EL,"Empat Lawang, Kab.",19.8,85924.3,32.41,True,False
+2020,ID.ST.MO,"Morowali, Kab.",81.87,1620813.7,14.94,True,False
+2020,ID.SU.NI,"Nias, Kab.",26.29,479973.1,26.44,False,True
+2020,ID.SU.NS,"Nias Selatan, Kab.",29.94,33195.5,21.91,True,False

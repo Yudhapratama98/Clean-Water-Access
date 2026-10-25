@@ -1,0 +1,244 @@
+id,raw_cluster,cluster_name,daerah,tingkat
+ID.BA.BD,1,Advanced / Leading,Badung,Kab
+ID.BA.BL,1,Advanced / Leading,Buleleng,Kab
+ID.BA.BN,1,Advanced / Leading,Bangli,Kab
+ID.BA.DE,1,Advanced / Leading,Denpasar,Kota
+ID.BA.GI,1,Advanced / Leading,Gianyar,Kab
+ID.BA.JE,2,Catching-Up,Jembrana,Kab
+ID.BA.KA,1,Advanced / Leading,Karangasem,Kab
+ID.BA.KL,1,Advanced / Leading,Klungkung,Kab
+ID.BA.TA,1,Advanced / Leading,Tabanan,Kab
+ID.BB.BA,2,Catching-Up,Bangka,Kab
+ID.BB.BE,2,Catching-Up,Belitung,Kab
+ID.BB.PP,1,Advanced / Leading,Pangkal Pinang,Kota
+ID.BE.BE,2,Catching-Up,Bengkulu,Kota
+ID.BE.BS,0,Severely Lagging,Bengkulu Selatan,Kab
+ID.BE.BU,0,Severely Lagging,Bengkulu Utara,Kab
+ID.BE.RL,0,Severely Lagging,Rejang Lebong,Kab
+ID.BT.LE,0,Severely Lagging,Lebak,Kab
+ID.BT.PA,0,Severely Lagging,Pandeglang,Kab
+ID.BT.SE,2,Catching-Up,Serang,Kab
+ID.BT.TM,2,Catching-Up,Tangerang,Kab
+ID.BT.TN,2,Catching-Up,Tangerang,Kota
+ID.GO.GM,2,Catching-Up,Gorontalo,Kab
+ID.GO.GR,1,Advanced / Leading,Gorontalo,Kota
+ID.JA.BA,0,Severely Lagging,Batang Hari,Kab
+ID.JA.JA,1,Advanced / Leading,Jambi,Kota
+ID.JA.KE,2,Catching-Up,Kerinci,Kab
+ID.JA.SB,0,Severely Lagging,Merangin,Kab
+ID.JI.BD,2,Catching-Up,Bondowoso,Kab
+ID.JI.BJ,1,Advanced / Leading,Bojonegoro,Kab
+ID.JI.BK,2,Catching-Up,Bangkalan,Kab
+ID.JI.BL,2,Catching-Up,Blitar,Kota
+ID.JI.BR,2,Catching-Up,Blitar,Kab
+ID.JI.BW,2,Catching-Up,Banyuwangi,Kab
+ID.JI.GR,1,Advanced / Leading,Gresik,Kab
+ID.JI.JE,2,Catching-Up,Jember,Kab
+ID.JI.JO,2,Catching-Up,Jombang,Kab
+ID.JI.KD,2,Catching-Up,Kediri,Kota
+ID.JI.KR,2,Catching-Up,Kediri,Kab
+ID.JI.LA,1,Advanced / Leading,Lamongan,Kab
+ID.JI.LU,2,Catching-Up,Lumajang,Kab
+ID.JI.MD,1,Advanced / Leading,Madiun,Kota
+ID.JI.MG,2,Catching-Up,Malang,Kab
+ID.JI.MJ,2,Catching-Up,Mojokerto,Kota
+ID.JI.MK,1,Advanced / Leading,Mojokerto,Kab
+ID.JI.ML,1,Advanced / Leading,Malang,Kota
+ID.JI.MN,2,Catching-Up,Madiun,Kab
+ID.JI.MT,1,Advanced / Leading,Magetan,Kab
+ID.JI.NJ,2,Catching-Up,Nganjuk,Kab
+ID.JI.NW,2,Catching-Up,Ngawi,Kab
+ID.JI.PC,2,Catching-Up,Pacitan,Kab
+ID.JI.PG,2,Catching-Up,Ponorogo,Kab
+ID.JI.PK,2,Catching-Up,Pamekasan,Kab
+ID.JI.PL,2,Catching-Up,Probolinggo,Kab
+ID.JI.PO,1,Advanced / Leading,Probolinggo,Kota
+ID.JI.PR,2,Catching-Up,Pasuruan,Kab
+ID.JI.PS,1,Advanced / Leading,Pasuruan,Kota
+ID.JI.SA,2,Catching-Up,Sampang,Kab
+ID.JI.SB,2,Catching-Up,Situbondo,Kab
+ID.JI.SD,1,Advanced / Leading,Sidoarjo,Kab
+ID.JI.SM,2,Catching-Up,Sumenep,Kab
+ID.JI.SR,1,Advanced / Leading,Surabaya,Kota
+ID.JI.TB,1,Advanced / Leading,Tuban,Kab
+ID.JI.TG,2,Catching-Up,Tulungagung,Kab
+ID.JI.TR,2,Catching-Up,Trenggalek,Kab
+ID.JR.BA,2,Catching-Up,Banjar,Kab
+ID.JR.BD,2,Catching-Up,Bandung,Kab
+ID.JR.BG,2,Catching-Up,Bogor,Kota
+ID.JR.BN,1,Advanced / Leading,Bandung,Kota
+ID.JR.BR,2,Catching-Up,Bogor,Kab
+ID.JR.BS,2,Catching-Up,Bekasi,Kab
+ID.JR.CE,1,Advanced / Leading,Cirebon,Kota
+ID.JR.CJ,0,Severely Lagging,Cianjur,Kab
+ID.JR.CR,2,Catching-Up,Cirebon,Kab
+ID.JR.CS,2,Catching-Up,Ciamis,Kab
+ID.JR.GA,0,Severely Lagging,Garut,Kab
+ID.JR.IN,2,Catching-Up,Indramayu,Kab
+ID.JR.KA,2,Catching-Up,Karawang,Kab
+ID.JR.KU,2,Catching-Up,Kuningan,Kab
+ID.JR.MA,2,Catching-Up,Majalengka,Kab
+ID.JR.PU,2,Catching-Up,Purwakarta,Kab
+ID.JR.SB,2,Catching-Up,Subang,Kab
+ID.JR.SD,2,Catching-Up,Sumedang,Kab
+ID.JR.SK,2,Catching-Up,Sukabumi,Kota
+ID.JR.SM,0,Severely Lagging,Sukabumi,Kab
+ID.JR.TM,0,Severely Lagging,Tasikmalaya,Kab
+ID.JT.BL,1,Advanced / Leading,Blora,Kab
+ID.JT.BN,2,Catching-Up,Banjarnegara,Kab
+ID.JT.BO,2,Catching-Up,Boyolali,Kab
+ID.JT.BR,2,Catching-Up,Brebes,Kab
+ID.JT.BT,2,Catching-Up,Batang,Kab
+ID.JT.BY,2,Catching-Up,Banyumas,Kab
+ID.JT.CI,2,Catching-Up,Cilacap,Kab
+ID.JT.DE,2,Catching-Up,Demak,Kab
+ID.JT.GR,2,Catching-Up,Grobogan,Kab
+ID.JT.JE,2,Catching-Up,Jepara,Kab
+ID.JT.KA,2,Catching-Up,Karanganyar,Kab
+ID.JT.KB,2,Catching-Up,Kebumen,Kab
+ID.JT.KL,2,Catching-Up,Klaten,Kab
+ID.JT.KN,2,Catching-Up,Kendal,Kab
+ID.JT.KU,2,Catching-Up,Kudus,Kab
+ID.JT.MG,1,Advanced / Leading,Magelang,Kota
+ID.JT.MM,2,Catching-Up,Magelang,Kab
+ID.JT.PA,2,Catching-Up,Pati,Kab
+ID.JT.PB,2,Catching-Up,Purbalingga,Kab
+ID.JT.PK,2,Catching-Up,Pekalongan,Kota
+ID.JT.PL,2,Catching-Up,Pemalang,Kab
+ID.JT.PM,2,Catching-Up,Pekalongan,Kab
+ID.JT.PW,2,Catching-Up,Purworejo,Kab
+ID.JT.RE,1,Advanced / Leading,Rembang,Kab
+ID.JT.SA,1,Advanced / Leading,Salatiga,Kota
+ID.JT.SE,1,Advanced / Leading,Semarang,Kota
+ID.JT.SG,1,Advanced / Leading,Sragen,Kab
+ID.JT.SH,2,Catching-Up,Sukoharjo,Kab
+ID.JT.SK,1,Advanced / Leading,Surakarta,Kota
+ID.JT.SM,1,Advanced / Leading,Semarang,Kab
+ID.JT.TE,1,Advanced / Leading,Tegal,Kota
+ID.JT.TG,2,Catching-Up,Temanggung,Kab
+ID.JT.TM,2,Catching-Up,Tegal,Kab
+ID.JT.WG,2,Catching-Up,Wonogiri,Kab
+ID.JT.WS,1,Advanced / Leading,Wonosobo,Kab
+ID.KB.KE,0,Severely Lagging,Ketapang,Kab
+ID.KB.PN,0,Severely Lagging,Pontianak,Kota
+ID.KB.PR,0,Severely Lagging,Pontianak,Kab
+ID.KB.SM,0,Severely Lagging,Sambas,Kab
+ID.KB.SN,0,Severely Lagging,Sanggau,Kab
+ID.KI.BA,1,Advanced / Leading,Balikpapan,Kota
+ID.KI.KU,2,Catching-Up,Kutai Kartanegara,Kab
+ID.KI.PA,2,Catching-Up,Pasir,Kab
+ID.KI.SA,1,Advanced / Leading,Samarinda,Kota
+ID.KR.BA,1,Advanced / Leading,Batam,Kota
+ID.KS.BK,0,Severely Lagging,Barito Kuala,Kab
+ID.KS.BM,1,Advanced / Leading,Banjarmasin,Kota
+ID.KS.HS,2,Catching-Up,Hulu Sungai Selatan,Kab
+ID.KS.HT,2,Catching-Up,Hulu Sungai Tengah,Kab
+ID.KS.HU,2,Catching-Up,Hulu Sungai Utara,Kab
+ID.KS.KB,2,Catching-Up,Kota Baru,Kab
+ID.KS.TB,2,Catching-Up,Tabalong,Kab
+ID.KS.TL,0,Severely Lagging,Tanah Laut,Kab
+ID.KS.TP,2,Catching-Up,Tapin,Kab
+ID.KT.BS,2,Catching-Up,Barito Selatan,Kab
+ID.KT.BU,2,Catching-Up,Barito Utara,Kab
+ID.KT.KA,0,Severely Lagging,Kapuas,Kab
+ID.KT.KB,2,Catching-Up,Kotawaringin Barat,Kab
+ID.KT.KT,2,Catching-Up,Kotawaringin Timur,Kab
+ID.KT.PR,2,Catching-Up,Palangkaraya,Kota
+ID.LA.BL,2,Catching-Up,Bandar Lampung,Kota
+ID.LA.LB,0,Severely Lagging,Lampung Barat,Kab
+ID.LA.LS,2,Catching-Up,Lampung Selatan,Kab
+ID.LA.LT,0,Severely Lagging,Lampung Tengah,Kab
+ID.NB.BI,2,Catching-Up,Bima,Kab
+ID.NB.DO,2,Catching-Up,Dompu,Kab
+ID.NB.LB,2,Catching-Up,Lombok Barat,Kab
+ID.NB.LI,2,Catching-Up,Lombok Timur,Kab
+ID.NB.LT,2,Catching-Up,Lombok Tengah,Kab
+ID.NB.MA,2,Catching-Up,Mataram,Kota
+ID.NB.SU,2,Catching-Up,Sumbawa,Kab
+ID.NT.AL,2,Catching-Up,Alor,Kab
+ID.NT.BE,2,Catching-Up,Belu,Kab
+ID.NT.EN,2,Catching-Up,Ende,Kab
+ID.NT.FT,2,Catching-Up,Flores Timur,Kab
+ID.NT.KR,2,Catching-Up,Kupang,Kab
+ID.NT.NG,1,Advanced / Leading,Ngada,Kab
+ID.NT.SB,0,Severely Lagging,Sumba Barat,Kab
+ID.NT.SI,2,Catching-Up,Sikka,Kab
+ID.NT.ST,2,Catching-Up,Sumba Timur,Kab
+ID.NT.TS,0,Severely Lagging,Timor Tengah Selatan,Kab
+ID.NT.TU,2,Catching-Up,Timor Tengah Utara,Kab
+ID.RI.II,0,Severely Lagging,Indragiri Hilir,Kab
+ID.RI.IU,2,Catching-Up,Indragiri Hulu,Kab
+ID.RI.PB,2,Catching-Up,Pekanbaru,Kota
+ID.SB.AG,2,Catching-Up,Agam,Kab
+ID.SB.BU,1,Advanced / Leading,Bukittinggi,Kota
+ID.SB.LP,2,Catching-Up,Limapuluh Kota,Kab
+ID.SB.PD,1,Advanced / Leading,Padang,Kota
+ID.SB.PJ,1,Advanced / Leading,Padang Panjang,Kota
+ID.SB.PP,2,Catching-Up,Padang Pariaman,Kab
+ID.SB.PS,2,Catching-Up,Pesisir Selatan,Kab
+ID.SB.PY,1,Advanced / Leading,Payakumbuh,Kota
+ID.SB.SJ,2,Catching-Up,Sijunjung,Kab
+ID.SB.SL,1,Advanced / Leading,Sawahlunto,Kota
+ID.SB.SM,2,Catching-Up,Solok,Kab
+ID.SB.SO,1,Advanced / Leading,Solok,Kota
+ID.SB.TD,2,Catching-Up,Tanah Datar,Kab
+ID.SE.BO,2,Catching-Up,Bone,Kab
+ID.SE.BR,2,Catching-Up,Barru,Kab
+ID.SE.BT,2,Catching-Up,Bantaeng,Kab
+ID.SE.BU,2,Catching-Up,Bulukumba,Kab
+ID.SE.EN,2,Catching-Up,Enrekang,Kab
+ID.SE.GO,2,Catching-Up,Gowa,Kab
+ID.SE.JE,2,Catching-Up,Jeneponto,Kab
+ID.SE.LW,2,Catching-Up,Luwu,Kab
+ID.SE.MR,2,Catching-Up,Maros,Kab
+ID.SE.PI,2,Catching-Up,Pinrang,Kab
+ID.SE.PK,2,Catching-Up,Pangkajene Kepulauan,Kab
+ID.SE.PP,1,Advanced / Leading,Parepare,Kota
+ID.SE.SE,2,Catching-Up,Kepulauan Selayar,Kab
+ID.SE.SI,2,Catching-Up,Sinjai,Kab
+ID.SE.SO,2,Catching-Up,Soppeng,Kab
+ID.SE.SR,2,Catching-Up,Sidenreng Rappang,Kab
+ID.SE.TA,2,Catching-Up,Takalar,Kab
+ID.SE.TT,0,Severely Lagging,Tana Toraja,Kab
+ID.SE.UP,1,Advanced / Leading,Makassar,Kota
+ID.SE.WA,2,Catching-Up,Wajo,Kab
+ID.SG.BU,2,Catching-Up,Buton,Kab
+ID.SG.KN,2,Catching-Up,Konawe,Kab
+ID.SG.KO,2,Catching-Up,Kolaka,Kab
+ID.SG.MU,2,Catching-Up,Muna,Kab
+ID.SL.LA,0,Severely Lagging,Lahat,Kab
+ID.SL.MB,0,Severely Lagging,Musi Banyuasin,Kab
+ID.SL.ME,2,Catching-Up,Muara Enim,Kab
+ID.SL.MR,0,Severely Lagging,Musi Rawas,Kab
+ID.SL.OH,0,Severely Lagging,Ogan Komering Ilir,Kab
+ID.SL.OU,2,Catching-Up,Ogan Komering Ulu,Kab
+ID.SL.PA,1,Advanced / Leading,Palembang,Kota
+ID.SR.MJ,2,Catching-Up,Majene,Kab
+ID.SR.MM,2,Catching-Up,Mamuju,Kab
+ID.SR.PM,2,Catching-Up,Polewali Mandar,Kab
+ID.ST.BA,2,Catching-Up,Banggai,Kab
+ID.ST.PA,2,Catching-Up,Palu,Kota
+ID.ST.PO,2,Catching-Up,Poso,Kab
+ID.SU.AS,2,Catching-Up,Asahan,Kab
+ID.SU.BI,2,Catching-Up,Binjai,Kota
+ID.SU.DA,2,Catching-Up,Dairi,Kab
+ID.SU.KA,2,Catching-Up,Karo,Kab
+ID.SU.LB,0,Severely Lagging,Labuhan Batu,Kab
+ID.SU.ME,1,Advanced / Leading,Medan,Kota
+ID.SU.NI,0,Severely Lagging,Nias,Kab
+ID.SU.PS,1,Advanced / Leading,Pematang Siantar,Kota
+ID.SU.SB,1,Advanced / Leading,Sibolga,Kota
+ID.SU.SM,2,Catching-Up,Simalungun,Kab
+ID.SU.TB,1,Advanced / Leading,Tanjung Balai,Kota
+ID.SU.TG,2,Catching-Up,Tebing Tinggi,Kota
+ID.SU.TS,0,Severely Lagging,Tapanuli Selatan,Kab
+ID.SU.TT,0,Severely Lagging,Tapanuli Tengah,Kab
+ID.SU.TU,0,Severely Lagging,Tapanuli Utara,Kab
+ID.SW.BI,1,Advanced / Leading,Bitung,Kota
+ID.SW.BM,2,Catching-Up,Bolaang Mongondow,Kab
+ID.SW.MA,1,Advanced / Leading,Manado,Kota
+ID.SW.MI,2,Catching-Up,Minahasa,Kab
+ID.YO.GK,2,Catching-Up,Gunung Kidul,Kab
+ID.YO.KP,2,Catching-Up,Kulon Progo,Kab
+ID.YO.SL,2,Catching-Up,Sleman,Kab
+ID.YO.YO,2,Catching-Up,Yogyakarta,Kota

@@ -1,0 +1,5 @@
+cluster_name,HC Branch: Lagging Outliers (N=4),HC Trunk: Transition (N=208),HC Branch: Elite Leaders (N=31),Total
+Severely Lagging,4,30,0,34
+Catching-Up,0,154,0,154
+Advanced / Leading,0,24,31,55
+Total,4,208,31,243
