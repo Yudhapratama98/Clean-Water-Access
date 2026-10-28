@@ -1,0 +1,8 @@
+Indicator,Variable,N (Obs),Mean,Std. Dev.,Min,Max
+Household Safe Water Access (%),water,10180,53.5,22.3,0.0,100.0
+Morbidity Rate (%),morbid,10180,28.37,8.63,2.86,77.12
+Observation Year,year,10180,2009.29,6.9,1996.0,2020.0
+Total Land Area (km²),area,10180,4557.26,7868.11,6.0,119749.0
+Total Population (persons),pop,10148,537111.82,595322.99,12607.0,6398000.0
+Real PAD per Capita (Constant 2010 IDR),pad_pc_real,9936,183311.63,235256.91,569.97,4946042.9
+Real Total Expenditure per Capita (Constant 2010 IDR),expend_pc_real,8269,2963963.1,3349505.72,5812.91,53350447.89
